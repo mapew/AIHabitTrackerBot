@@ -13,6 +13,7 @@ This app tracks habits entered by the user. It allows the user to:
 - Check which habits need to be done today
 
 ex.
+
 <img width="673" height="462" alt="스크린샷 2025-07-17 063211" src="https://github.com/user-attachments/assets/ca88a2dc-04ff-44ac-880f-bfae6e0fb171" />
 
 <img width="842" height="393" alt="스크린샷 2025-07-17 063242" src="https://github.com/user-attachments/assets/cb4e22f6-2eea-45ad-bcf6-ec6da141c3d1" />
